@@ -1,0 +1,7 @@
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\bin\Debug\CalculatorConsoleApp-P1.exe.config
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\bin\Debug\CalculatorConsoleApp-P1.exe
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\bin\Debug\CalculatorConsoleApp-P1.pdb
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\obj\Debug\CalculatorConsoleApp-P1.csproj.AssemblyReference.cache
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\obj\Debug\CalculatorConsoleApp-P1.csproj.CoreCompileInputs.cache
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\obj\Debug\CalculatorConsoleApp-P1.exe
+E:\23.11.5647\CalculatorConsoleApp-P1\CalculatorConsoleApp-P1\obj\Debug\CalculatorConsoleApp-P1.pdb
